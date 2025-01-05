@@ -1,0 +1,13 @@
+{
+  "model": {
+    "yolov7": {
+      "inference_time_gpu": 0.011932749999687076,
+      "inference_time_cpu": 0.8197850699994887,
+      "num_parameter": 6033930,
+      "memory_usage": 12.06786
+    },
+   "hardware": {
+    "cpu_name": "Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+    "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU"
+  }
+}
