@@ -1,4 +1,4 @@
-## Cross Model Evaluation
+## Model Evaluation
 
 Object Detector is evaluated on KITTI dataset and Gazebo simulation data. Additionaly, the data exploration on the test data is conducted for better interpretation of the evaluation results.
 
@@ -22,7 +22,7 @@ Object Detector is evaluated on KITTI dataset and Gazebo simulation data. Additi
 ## Acknowledgements
 
 This evaluation process utilizes significant portions of the implementation from the [mAP repository](https://github.com/Cartucho/mAP) by [Cartucho](https://github.com/Cartucho) and contributors. 
-The repository includes mAP evaluation, scripts for label format conversion etc. which makes our cross model evaluations more efficient. For further details, please visit the [official repository](https://github.com/Cartucho/mAP).
+The repository includes mAP evaluation, scripts for label format conversion etc. For further details, please visit the [official repository](https://github.com/Cartucho/mAP).
 
 
 ### Citations
