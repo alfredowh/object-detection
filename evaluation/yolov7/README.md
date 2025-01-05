@@ -19,7 +19,7 @@ This folder implements the evaluation of object detection models on KITTI datase
 
 ## Evaluation on KITTI dataset
 After training the YOLOv7, we evaluate the model using a separate evaluation package. 
-1. Run the inference script `IRO/yolov7/detect.py`with additional arguments `--save-txt --save-conf`to get inference detections in `*.txt`files
+1. Run the inference script `yolov7/detect.py`with additional arguments `--save-txt --save-conf`to get inference detections in `*.txt`files
 2. Copy the `*.txt` files in `detections/`
 3. Follow the next steps on  [`mAP_evaluation.ipynb`](https://github.com/alfredowh/object-detection/blob/main/evaluation/yolov7/mAP_evaluation.ipynb) for preparing data to the mAP package
 4. The evaluation results are located in `evaluation/output`
