@@ -13,8 +13,6 @@ Moreover, images of a simple road traffic scene are generated with the help of R
 
 ## Folder Structure
 
-The folder structure of the input data should look like this:
-
 ``` bash
 .
 ├── input (symlink)                 # Symlink to the KITTI data (only for local development)
